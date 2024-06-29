@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DoneritePro</string>
+    <string name="delete">Supprimer</string>
+    <string name="edit">Modifier</string>
+    <string name="task_title">Titre</string>
+    <string name="task_description">Description</string>
+    <string name="task_due_date">Date</string>
+    <string name="task_priority">Priorité de tache</string>
+    <string name="save">Sauvegarder</string>
+    <string name="afficher_les_t_ches_termin_es">Afficher les tâches terminées</string>
+</resources>

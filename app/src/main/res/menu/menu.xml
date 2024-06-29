@@ -1,0 +1,18 @@
+<!-- res/menu/menu_main.xml -->
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_sort"
+        android:title="Sort"
+        android:icon="@drawable/ic_sort"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_sort_by_due_date"
+                android:title="Trier par date d'échéance" />
+            <item
+                android:id="@+id/action_sort_by_priority"
+                android:title="Trier par priorité" />
+        </menu>
+    </item>
+</menu>

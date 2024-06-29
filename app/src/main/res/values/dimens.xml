@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_medium">20dp</dimen>
+    <dimen name="padding_high">30dp</dimen>
+    <dimen name="padding_default">10dp</dimen>
+    <dimen name="padding_low">5dp</dimen>
+    <dimen name="padding_highest">40dp</dimen>
+
+
+    <dimen name="padding_16dp">16.0dip</dimen>
+    <dimen name="padding_24dp">24.0dip</dimen>
+    <dimen name="padding_32dp">32.0dip</dimen>
+    <dimen name="padding_4dp">4.0dip</dimen>
+    <dimen name="padding_8dp">8.0dip</dimen>
+
+    <dimen name="horizontal_margin_16dp">16.0dip</dimen>
+    <dimen name="horizontal_margin_8dp">8.0dip</dimen>
+    <dimen name="horizontal_padding_16dp">16.0dip</dimen>
+    <dimen name="horizontal_padding_8dp">8.0dip</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20.0dip</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800.0dip</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120.0dip</dimen>
+    <dimen name="margin_16dp">16.0dip</dimen>
+    <dimen name="margin_24dp">24.0dip</dimen>
+    <dimen name="margin_4dp">4.0dip</dimen>
+    <dimen name="margin_8dp">8.0dip</dimen>
+
+
+</resources>
